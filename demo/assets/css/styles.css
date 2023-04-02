@@ -1,0 +1,21 @@
+#para3{
+    color:green
+}
+.para{
+    color:red;
+    text-decoration: underline;
+}
+p{
+    font-style: italic;
+    font-size: 18px;
+}
+/* p{
+    font-style: normal;
+} */
+.box{
+    background-color: gray;
+    width: 400px;
+    border: 15px solid red;
+    margin: 10px;
+    padding: 40px;
+}
